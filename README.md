@@ -5,7 +5,7 @@ Sebastian</a> 👊</h1>
 
 <br/>
 <a target="_blank" align="center">
-  <img src="./assets/imagen.png" alt="yo version harry potter" width="400" height="300" align="right">
+  <img src="./assets/harry.png" alt="yo version harry potter" width="400" height="300" align="right">
 </a>
 
 - 🔭 Actualmente trabajando en proyectos React y Node.js.
