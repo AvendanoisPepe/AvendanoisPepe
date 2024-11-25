@@ -5,7 +5,7 @@ Sebastian</a> 👊</h1>
 
 <br/>
 <a target="_blank" align="center">
-  <img src="./assets/harry.png" alt="yo version harry potter" width="400" height="300" align="right">
+  <img src="./assets/harry.png" alt="yo version harry potter" width="400" height="400" align="right">
 </a>
 
 - 🔭 Actualmente trabajando en proyectos React y Node.js.
@@ -20,15 +20,7 @@ Sebastian</a> 👊</h1>
 
 - 📄 Descarga mi [currículum](https://example.com/micv.pdf).
 
-
----
-
-## 🚀 Tecnologías
-- **Frontend:** React, Angular, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express, Python
-- **Bases de datos:** MongoDB, MySQL, PostgreSQL
-
----
+<br><br>
 
 ## 🌟 Proyectos destacados
 - **[Mi Portafolio](https://github.com/AvendanoisPepe/portafolio):** Descripción breve del proyecto.
