@@ -8,17 +8,15 @@ Sebastian</a> 👊</h1>
   <img src="./assets/harry.png" alt="yo version harry potter" width="400" height="400" align="right">
 </a>
 
-- 🔭 Actualmente trabajando en proyectos React y Node.js.
+- 🔭Currently, I work on React and Node.js projects at Atento, generating solutions for various companies.
 
-- 🌱 Aprendiendo tecnologías como **TypeScript**, **React Native**, y **GraphQL**.
+- 🌱 Learning technologies like **Next.js**, **React Native**, and looking for new ones to improve my projects/work.
 
-- 💬 Pregúntame sobre desarrollo web y mobile.
+- 💬 Ask me about web development.
 
-- 📝 Escribo artículos técnicos en [mi blog](https://dev.to/miusuario).
+- 📫 Cómo contactarme: **jsebastian.avendano@gmail.com**.
 
-- 📫 Cómo contactarme: **miemail@example.com**.
-
-- 📄 Descarga mi [currículum](https://example.com/micv.pdf).
+- 📄 Download my resume here: [resume].
 
 <br><br>
 
