@@ -16,7 +16,7 @@ Sebastian</a> 👊</h1>
 
 - 📫 Cómo contactarme: **jsebastian.avendano@gmail.com**.
 
-- 📄 Download my resume here: [[currículum](https://github.com/AvendanoisPepe/AvendanoisPepe/tree/main/assets/ingres.pdf)].
+- 📄 Download my resume here: [[currículum](https://github.com/AvendanoisPepe/AvendanoisPepe/tree/main/assets/ingles.pdf)].
 
 <br><br>
 
