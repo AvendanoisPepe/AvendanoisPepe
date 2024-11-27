@@ -26,13 +26,8 @@ Sebastian</a> 👊</h1>
 
 | Portafolio | AirBnB_clone_v4 | Multiple Repositories |
 | ----------- | ----------- | ----------- |
-| <p align="center">Project generated with React, Jsx, Node.js, and multiple design functions with the intention of showing a little of my life to the world. </p> <p align="center">**[Mi Portafolio](https://github.com/AvendanoisPepe/portafolio)**</p> <p  align="center"><img align="center" src="./assets/harry.png" alt="yo version harry potter" width="100" height="100"></p> | <p align="center">During my last period of study I got to touch Python, C, where they focused especially on programming logic and in the same way previous knowledge such as Js and web design was highlighted.</p> <p align="center">**[AirBnB_clone_v4](https://github.com/AvendanoisPepe/AirBnB_clone_v4)**</p> <p  align="center"><img align="center" src="./assets/harry.png" alt="yo version harry potter" width="100" height="100"></p> | <p align="center">Since I have been working at Atento for quite some time, most of my work/developments are in the respective company's repository, so I cannot link to it, but in the Portfolio you can see some work done.</p> <p  align="center"><img align="center" src="./assets/harry.png" alt="yo version harry potter" width="100" height="100"></p> |
+| <p align="center">Project generated with React, Jsx, Node.js, and multiple design functions with the intention of showing a little of my life to the world. </p> <p align="center">**[Mi Portafolio](https://github.com/AvendanoisPepe/portafolio)**</p> <p  align="center"><img align="center" src="./assets/portafolio.png" alt="yo version harry potter" width="70" height="70"></p> <br>| <p align="center">During my last period of study I got to touch Python, C, where they focused especially on programming logic and in the same way previous knowledge such as Js and web design was highlighted.</p> <p align="center">**[AirBnB_clone_v4](https://github.com/AvendanoisPepe/AirBnB_clone_v4)**</p> <p  align="center"><img align="center" src="./assets/airbnb.png" alt="yo version harry potter" width="70" height="70"></p> <br>| <p align="center">Since I have been working at Atento for quite some time, most of my work/developments are in the respective company's repository, so I cannot link to it, but in the Portfolio you can see some work done.</p> <p  align="center"><img align="center" src="./assets/repo.png" alt="yo version harry potter" width="70" height="70"></p> |
 
-## 🌟 Proyectos destacados
--  Descripción breve del proyecto.
--  Otro proyecto impresionante.
-
----
 
 ## 📫 Contacto
 - **Email:** tuemail@gmail.com
