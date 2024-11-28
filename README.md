@@ -44,7 +44,7 @@
 			<img src="./assets/instagram.png" width="40" height="40"></a>
 		<a style="margin-left: 25px;" target="_blank" href="https://github.com/AvendanoisPepe/AvendanoisPepe/tree/main/assets/ingles.pdf">
 					<img src="./assets/pdf1.png" width="40" height="40"></a>
-	 <a style="margin-left: 25px;" target="_blank" href="jsebastian.avendano@gmail.com">
+	 <a style="margin-left: 25px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jsebastian.avendano@gmail.com">
 					<img src="./assets/email.png" width="40" height="40"></a>
       </div>
 
