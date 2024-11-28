@@ -22,12 +22,18 @@ Sebastian</a> 👊</h1>
 
 ---
 
+## 💻 ----- Tech Stack ----- 💻
+| Frontend  | Backend | BD |
+| ----------- | ----------- | ----------- |
+| <p align="center"><a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,bootstrap,codepen,css,js,jquery,react,sass" /></a></p> | <p align="center"><a href="https://skillicons.dev" align="center"><img src="https://skillicons.dev/icons?i=c,java,js,nodejs,php,py,react,webpack" /></a></p> | <p align="center"><a href="https://skillicons.dev" align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></a></p> |
+---
+
 ## 🌟 ----- Featured Projects ----- 🌟
 
 | Portafolio | AirBnB_clone_v4 | Multiple Repositories |
 | ----------- | ----------- | ----------- |
 | <p align="center">Project generated with React, Jsx, Node.js, and multiple design functions with the intention of showing a little of my life to the world. </p> <p align="center">**[Mi Portafolio](https://github.com/AvendanoisPepe/portafolio)**</p> <p  align="center"><img align="center" src="./assets/portafolio.png" alt="yo version harry potter" width="70" height="70"></p> <br>| <p align="center">During my last period of study I got to touch Python, C, where they focused especially on programming logic and in the same way previous knowledge such as Js and web design was highlighted.</p> <p align="center">**[AirBnB_clone_v4](https://github.com/AvendanoisPepe/AirBnB_clone_v4)**</p> <p  align="center"><img align="center" src="./assets/airbnb.png" alt="yo version harry potter" width="70" height="70"></p> <br>| <p align="center">Since I have been working at Atento for quite some time, most of my work/developments are in the respective company's repository, so I cannot link to it, but in the Portfolio you can see some work done.</p> <p  align="center"><img align="center" src="./assets/repo.png" alt="yo version harry potter" width="70" height="70"></p> |
-
+---
 <p align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
