@@ -44,12 +44,3 @@ Sebastian</a> 👊</h1>
       </div>
 
 </p>
-
-## 📫 Contacto
-- **Email:** tuemail@gmail.com
-- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/sebastian-aven/)## 🚀 Tecnologías
-- **Frontend:** React, Angular, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express, Python
-- **Bases de datos:** MongoDB, MySQL, PostgreSQL
-
----
