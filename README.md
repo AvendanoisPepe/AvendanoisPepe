@@ -32,13 +32,13 @@ Sebastian</a> 👊</h1>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sebastian-aven/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AvendanoisPepe">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sebastian_gonzalez.123/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/AvendanoisPepe/AvendanoisPepe/tree/main/assets/ingles.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+			<img src="./assets/llinkedin.png" width="40" height="40"></a>
+        <a style="margin-left: 20px;" target="_blank" href="https://github.com/AvendanoisPepe">
+		<img src="./assets/git.png" width="40" height="40"></a>
+        <a style="margin-left: 20px;" target="_blank" href="https://www.instagram.com/sebastian_gonzalez.123/">
+			<img src="./assets/instagram.png" width="40" height="40"></a>
+		<a style="margin-left: 25px;" target="_blank" href="https://github.com/AvendanoisPepe/AvendanoisPepe/tree/main/assets/ingles.pdf">
+					<img src="./assets/pdf.png" width="40" height="40"></a>
       </div>
 
 </p>
