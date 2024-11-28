@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👊, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Sebastian</a> 👊</h1>
+ <img src="./assets/banner.png" alt="banner" width="1000" height="400" align="center">
 
 <h3 align="center">Developer passionate about the multiple emotions that programming generates at 3 in the morning</h3>
 
